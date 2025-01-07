@@ -3,7 +3,7 @@ spring.application.name=fileSharingManagement
 server.port=${PORT:8080}
 
 
-spring.datasource.url=jdbc:mysql://root:NAaYzTnQGyQwBIzeUTwjcAFbKPQZbXSC@mysql.railway.internal:3306/railway
+spring.datasource.url=jdbc:mysql://mysql.railway.internal:3306/railway
 spring.datasource.username=root
 spring.datasource.password=NAaYzTnQGyQwBIzeUTwjcAFbKPQZbXSC
 spring.jpa.hibernate.ddl-auto=update
